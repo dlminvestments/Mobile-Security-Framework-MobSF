@@ -13,7 +13,7 @@ whitenoise==5.2.0
 waitress==2.0.0
 gunicorn==20.1.0
 psutil==5.8.0
-shelljob==0.6.2
+shelljob==0.6.3
 asn1crypto==1.4.0
 oscrypto==1.2.1
 distro==1.5.0
