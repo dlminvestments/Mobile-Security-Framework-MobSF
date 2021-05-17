@@ -20,7 +20,7 @@ distro==1.5.0
 IP2Location==8.5.1
 lief==0.11.4
 http-tools==2.1.0
-libsast==1.4.2
+libsast==1.4.4
 # Do not update the following
 apkid==2.1.2
 cryptography>=2.9,<4.0 # pyup: ignore
