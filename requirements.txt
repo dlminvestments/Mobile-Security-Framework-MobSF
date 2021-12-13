@@ -1,7 +1,7 @@
 Django==3.2.9
 pdfkit==1.0.0
 androguard==3.3.5
-lxml==4.6.4
+lxml==4.6.5
 rsa==4.7.2
 biplist==1.0.3
 requests==2.26.0
