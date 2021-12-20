@@ -23,5 +23,5 @@ http-tools==2.1.0
 libsast==1.4.5
 # Do not update the following
 apkid==2.1.2
-cryptography>=2.9,<36.0 # pyup: ignore
+cryptography>=2.9,<37.0 # pyup: ignore
 pyOpenSSL>=19.1.0,<21.1 # pyup: ignore
