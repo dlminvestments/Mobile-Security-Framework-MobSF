@@ -1,7 +1,11 @@
 Django==4.0
 pdfkit==1.0.0
 androguard==3.3.5
+ pyup-scheduled-update-2021-12-20
 lxml==4.7.1
+=======
+lxml==4.6.4
+master
 rsa==4.8
 biplist==1.0.3
 requests==2.26.0
@@ -23,5 +27,5 @@ http-tools==2.1.0
 libsast==1.4.5
 # Do not update the following
 apkid==2.1.2
-cryptography>=2.9,<36.0 # pyup: ignore
+cryptography>=2.9,<37.0 # pyup: ignore
 pyOpenSSL>=19.1.0,<21.1 # pyup: ignore
