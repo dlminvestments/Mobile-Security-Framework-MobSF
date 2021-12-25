@@ -2,9 +2,22 @@ Django==4.0
 pdfkit==1.0.0
 androguard==3.3.5
 dependabot/pip/lxml-4.7.1
+dependabot/pip/lxml-4.7.1
 lxml==4.7.1
 =======
+=======
+pyup-scheduled-update-2021-12-20
+ pyup-scheduled-update-2021-12-20
+lxml==4.7.1
+=======
+lxml==4.6.4
+master
+=======
+master
 lxml==4.6.5
+pyup-scheduled-update-2021-12-20
+master
+=======
 snyk-fix-128144f23aa9e5d5f97cd41b623e0f7d
 rsa==4.7.2
 =======
