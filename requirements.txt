@@ -1,6 +1,11 @@
 Django==4.0
 pdfkit==1.0.0
 androguard==3.3.5
+dependabot/pip/lxml-4.7.1
+dependabot/pip/lxml-4.7.1
+lxml==4.7.1
+=======
+=======
 pyup-scheduled-update-2021-12-20
  pyup-scheduled-update-2021-12-20
 lxml==4.7.1
@@ -8,7 +13,12 @@ lxml==4.7.1
 lxml==4.7.1
 master==1.0.0
 =======
+pyup-scheduled-update-2022-01-03
 lxml==4.7.1
+=======
+master
+lxml==4.6.5
+master
 pyup-scheduled-update-2021-12-20
 master==1.0.0
 =======
