@@ -10,7 +10,7 @@ pyup-scheduled-update-2021-12-20
  pyup-scheduled-update-2021-12-20
 lxml==4.7.1
 =======
-lxml==4.6.4
+lxml==4.7.1
 master
 =======
 master
