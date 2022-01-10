@@ -19,7 +19,7 @@ pyup-scheduled-update-2021-12-20
 master==1.0.0
 =======
 snyk-fix-128144f23aa9e5d5f97cd41b623e0f7d
-rsa==4.7.2
+rsa==4.8
 =======
 master==1.0.0
 rsa==4.8
