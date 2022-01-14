@@ -1,4 +1,4 @@
-Django==4.0
+Django==4.0.1
 pdfkit==1.0.0
 androguard==3.3.5
 dependabot/pip/lxml-4.7.1
@@ -12,12 +12,18 @@ lxml==4.7.1
 =======
 lxml==4.7.1
 master==1.0.0
+pyup-scheduled-update-2022-01-10
+=======
+master==1.0.0
+lxml==4.7.1
+=======
 =======
 pyup-scheduled-update-2022-01-03
 lxml==4.7.1
 =======
 master
 lxml==4.6.5
+master
 master
 pyup-scheduled-update-2021-12-20
 master==1.0.0
@@ -29,7 +35,7 @@ master==1.0.0
 rsa==4.8
 master==1.0.0
 biplist==1.0.3
-requests==2.26.0
+requests==2.27.1
 bs4==0.0.1
 colorlog==6.6.0
 macholib==1.15.2
