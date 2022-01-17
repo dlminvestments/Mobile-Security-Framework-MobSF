@@ -21,10 +21,10 @@ lxml==4.7.1
 pyup-scheduled-update-2022-01-03
 lxml==4.7.1
 =======
-master
+master==1.0.0
 lxml==4.6.5
-master
-master
+master==1.0.0
+master==1.0.0
 pyup-scheduled-update-2021-12-20
 master==1.0.0
 =======
