@@ -43,7 +43,7 @@ google-play-scraper==1.2.2
 whitenoise==6.2.0
 waitress==2.1.2
 gunicorn==20.1.0
-psutil==5.9.3
+psutil==5.9.4
 shelljob==0.6.3
 asn1crypto==1.5.1
 oscrypto==1.3.0
