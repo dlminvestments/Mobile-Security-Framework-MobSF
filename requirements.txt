@@ -53,6 +53,6 @@ lief==0.13.2
 http-tools==3.0.0
 libsast==2.0.3
 # Do not update the following
-apkid==2.1.4
+apkid==2.1.5
 cryptography>=2.9,<37.0 # pyup: ignore
 pyOpenSSL>=19.1.0,<21.1 # pyup: ignore
