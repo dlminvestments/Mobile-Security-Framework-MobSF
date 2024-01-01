@@ -37,7 +37,7 @@ master==1.0.0
 biplist==1.0.3
 requests==2.31.0
 bs4==0.0.1
-colorlog==6.7.0
+colorlog==6.8.0
 macholib==1.16.2
 google-play-scraper==1.2.2
 whitenoise==6.3.0
