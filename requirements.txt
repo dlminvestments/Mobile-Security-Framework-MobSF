@@ -35,7 +35,7 @@ master==1.0.0
 rsa==4.9
 master==1.0.0
 biplist==1.0.3
-requests==2.28.2
+requests==2.31.0
 bs4==0.0.1
 colorlog==6.7.0
 macholib==1.16.2
