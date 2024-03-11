@@ -1,6 +1,6 @@
 Django==5.0.3
 pdfkit==1.0.0
-androguard==3.3.5
+androguard==4.1.0
 dependabot/pip/lxml-4.7.1
 dependabot/pip/lxml-4.7.1
 lxml==4.9.2
