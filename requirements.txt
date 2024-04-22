@@ -38,7 +38,7 @@ biplist==1.0.3
 requests==2.31.0
 bs4==0.0.2
 colorlog==6.8.2
-macholib==1.16.2
+macholib==1.16.3
 google-play-scraper==1.2.2
 whitenoise==6.3.0
 waitress==2.1.2
